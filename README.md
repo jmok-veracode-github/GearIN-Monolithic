@@ -16,7 +16,7 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
+<div align="center"> 
   <a href="https://github.com/Code-Flaps/GearIN-Monolithic">
     <img src="./Assets/Logo.png" alt="Logo" width="80" height="80">
   </a>
